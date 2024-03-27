@@ -1,0 +1,8 @@
+// SOME DUAL TABLE EXAMPLES
+
+select 45+11;
+select now();
+select lcase('VRUSHALI');
+select ucase('vrushali');
+
+

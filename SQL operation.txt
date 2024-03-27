@@ -1,0 +1,34 @@
+Sure, here's a list of common SQL operations, categorized and numbered:
+
+1. **SELECT**: Retrieves data from a database.
+2. **INSERT**: Adds new rows of data into a table.
+3. **UPDATE**: Modifies existing data in a table.
+4. **DELETE**: Removes rows from a table.
+5. **CREATE**: Creates a new table, view, index, or other database object.
+6. **ALTER**: Modifies an existing database object, such as a table.
+7. **DROP**: Deletes an existing database object, such as a table or index.
+8. **TRUNCATE**: Removes all records from a table.
+9. **GRANT**: Gives specific privileges to database users.
+10. **REVOKE**: Removes specific privileges from database users.
+11. **COMMIT**: Saves all pending transactions to the database.
+12. **ROLLBACK**: Reverts the database to its previous state before the BEGIN TRANSACTION.
+13. **SAVEPOINT**: Sets a point within a transaction to which you can later roll back.
+14. **JOIN**: Combines records from two or more tables in a database.
+15. **UNION**: Combines the results of two or more SELECT statements.
+16. **HAVING**: Specifies a search condition for a group or an aggregate function used in a SELECT statement.
+17. **GROUP BY**: Groups rows that have the same values into summary rows.
+18. **ORDER BY**: Sorts the result set in ascending or descending order.
+19. **DISTINCT**: Filters duplicate records from the result set.
+20. **LIMIT/OFFSET**: Limits the number of rows returned by a SELECT query and specifies the starting point for a data subset.
+21. **CASE**: Evaluates a list of conditions and returns one of multiple possible result expressions.
+22. **WINDOW FUNCTIONS**: Perform calculations across a set of table rows that are somehow related to the current row.
+23. **AGGREGATE FUNCTIONS**: Performs a calculation on a set of values and returns a single value, such as SUM, AVG, MIN, MAX, etc.
+24. **SUBQUERIES**: Nested queries within a SELECT, INSERT, UPDATE, or DELETE statement.
+25. **EXISTS**: Tests for the existence of any records in a subquery.
+26. **NOT EXISTS**: Tests for the absence of any records in a subquery.
+27. **WITH**: Provides a way to write subqueries for use in a larger SQL statement.
+28. **INDEXES**: Improve the speed of data retrieval operations on a database table at the cost of additional space and decreased performance on INSERT, UPDATE, and DELETE operations.
+29. **VIEWS**: Virtual tables that display the result of a SELECT query.
+30. **TRANSACTION CONTROL COMMANDS**: BEGIN TRANSACTION, COMMIT, ROLLBACK, SAVEPOINT, etc.
+
+These are some of the fundamental SQL operations used in relational database management systems (RDBMS).
